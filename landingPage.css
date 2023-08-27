@@ -1,0 +1,187 @@
+*{
+    margin: 0px;
+}
+.nav{
+    background-image: linear-gradient(145deg,rgb(213, 75, 105), rgb(190, 173, 190));
+    padding-left: 12%;
+    height: 70px;
+}
+.nav>a>img{
+    margin:18px 10px;
+
+}
+.nav>img{
+    margin: 18px 10px;
+}
+.line{
+    border: 1px solid white;
+    height: 70px;
+    position: absolute;
+    top: 0%;
+
+}
+.line2{
+    border: 1px solid white;
+    height: 45px;
+    margin-top: 10px;
+    position: absolute;
+    top: 0%;
+}
+.anc1{
+    /* text-decoration: none !important; */
+    text-decoration:none;
+    color: white;
+    font-size: 20px;
+    line-height: 70px;
+    vertical-align: top;
+    text-align: center;
+}
+.contct{
+    margin-left: 150px;
+}
+h4{
+    float: right;
+    margin-right: 50px;
+    line-height: 50px;
+    color: white;
+    font-size: 20px;
+    /* border: 2px solid white; */
+    border-radius: 10px;
+}
+.nav2{
+    background-color: white;
+    height: 70px;
+}
+a{
+    text-decoration: none;
+   
+}
+.nav2>img{
+    padding-left: 15%;
+    margin-top: 15px;
+}
+ul{
+    display: inline;
+    float: right;
+}
+li{
+    display: inline;
+    float: left;
+    font-weight:bold ;
+    font-size: 20px;
+}
+li:hover{
+    background-color: #000;
+    color: white;
+}
+.nav2>ul>li{
+    margin-left: 2px;
+    list-style-type: none;
+    line-height: 70px;
+    margin-right: 50px;
+}
+.bckImg{
+    width: 100%;
+    height: 700px;
+}
+.div3{
+    background-image: linear-gradient(145deg,rgb(213, 75, 105), rgb(190, 173, 190));
+    height: 100px;
+    margin-top: -5px;
+}
+.div3>img{
+    margin-left: 100px;
+    margin-top: 30px;
+    
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 25px;
+}
+.anc2{
+    text-decoration:none;
+    color: white;
+    margin-left: 10px;
+    line-height: 100px;
+    font-size: 20px;
+    vertical-align: top;
+    text-align: center;
+}
+.parent{
+    height: 550px;
+    background-color: rgb(57, 67, 65);
+}
+.left_div{
+    width: 40%;
+    display: inline-block;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+.right_div{
+    width:45%;
+    display: inline;
+    float: right;
+    margin-top: 10%;
+}
+.abut_img{
+    width: 80%;
+    height: 300px;
+}
+.para{
+    text-align: justify;
+    font-size: 18px;
+}
+button{
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-image: linear-gradient(145deg,rgb(213, 75, 105), rgb(190, 173, 190));
+}
+.services{
+    height: 500px;
+    background-image: url("imgs/chequebg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+
+}
+.head2{
+    padding:5% 0% 0% 40%;
+}
+#user-exp{
+    width: 30%;
+    height: 200px;
+    display: inline-block;
+    padding-left: 12%;
+}
+#creatd{
+    width: 30%;
+    height: 200px;
+    display: inline;
+    margin-top: -16%;
+    float: right;
+    padding-right: 100px;
+}
+.txt{
+    padding-left: 12%;
+    /* display: inline-block; */
+}
+.txt2{
+    float: right;
+    padding-right: 330px;
+    /* display: inline-block; */
+    margin-top: -40px;
+}
+footer{
+    height: 50px;
+    background-image: linear-gradient(145deg,rgb(213, 75, 105), rgb(190, 173, 190));
+    position: sticky;
+    bottom: 0;
+}
+.ftrtxt{
+    font-size: 22px;
+    line-height: 50px;
+    padding-left: 35%;
+}
